@@ -1,4 +1,4 @@
-# CW3D NFT Explorer For Netlify
+# ativação do duplex iptv e Flix iptv nao fique sem seu acesso!
 
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
